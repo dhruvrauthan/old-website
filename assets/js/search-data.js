@@ -502,6 +502,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_alchemist/";
+            },},{id: "books-the-jaunt",
+          title: 'The Jaunt',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_jaunt/";
             },},{id: "books-the-little-prince",
           title: 'The Little Prince',
           description: "",
@@ -592,9 +597,9 @@ ninja.data = [{
           description: "Developed a C++ gRPC/protobuf distributed key-value store featuring round-robin data partitioning, replication-based fault tolerance and load balancing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aos/";
-            },},{id: "projects-aurora",
-          title: 'Aurora',
-          description: "Developing a web app that transforms your playlist’s genres into dynamic aurora-inspired color visuals (WIP)",
+            },},{id: "projects-iris",
+          title: 'Iris',
+          description: "Developed a web app that transforms your playlist’s genres into dynamic aurora-inspired color visuals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aurora/";
             },},{id: "projects-covid-19-cases-tracker",
