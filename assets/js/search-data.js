@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/2001_space_odyssey/";
+            },},{id: "books-a-land-remembered",
+          title: 'A Land Remembered',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_land_remembered/";
             },},{id: "books-brave-new-world",
           title: 'Brave New World',
           description: "",
@@ -462,6 +467,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/jazz/";
+            },},{id: "books-leviathan-wakes",
+          title: 'Leviathan Wakes',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/leviathan_wakes/";
             },},{id: "books-a-life-on-our-planet-my-witness-statement-and-a-vision-for-the-future",
           title: 'A Life on Our Planet: My Witness Statement and a Vision for the...',
           description: "",
@@ -487,6 +497,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/red_dragon/";
+            },},{id: "books-some-desperate-glory",
+          title: 'Some Desperate Glory',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/some_desperate_glory/";
             },},{id: "books-sphere",
           title: 'Sphere',
           description: "",
@@ -522,6 +537,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_silence_of_the_lambs/";
+            },},{id: "books-the-stranger",
+          title: 'The Stranger',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_stranger/";
             },},{id: "books-the-trial",
           title: 'The Trial',
           description: "",
@@ -532,6 +552,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_body_problem/";
+            },},{id: "books-vintage-season",
+          title: 'Vintage Season',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vintage_season/";
             },},{id: "news-android-developer-indiahaat",
           title: 'Android Developer   IndiaHaat',
           description: "",
