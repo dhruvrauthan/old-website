@@ -7,42 +7,42 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/old-website/";
     },
   },{id: "nav-art",
           title: "art",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/art/";
+            window.location.href = "/old-website/art/";
           },
         },{id: "nav-books",
           title: "books",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/books/";
+            window.location.href = "/old-website/books/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/old-website/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/old-website/projects/";
           },
         },{id: "nav-contact",
           title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/contact/";
+            window.location.href = "/old-website/contact/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -70,152 +70,152 @@ ninja.data = [{
           title: '2001: A Space Odyssey',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/2001_space_odyssey/";
+              window.location.href = "/old-website/books/2001_space_odyssey/";
             },},{id: "books-a-land-remembered",
           title: 'A Land Remembered',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/a_land_remembered/";
+              window.location.href = "/old-website/books/a_land_remembered/";
             },},{id: "books-brave-new-world",
           title: 'Brave New World',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/brave_new_world/";
+              window.location.href = "/old-website/books/brave_new_world/";
             },},{id: "books-childhood-39-s-end",
           title: 'Childhood&amp;#39;s End',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/childhood_end/";
+              window.location.href = "/old-website/books/childhood_end/";
             },},{id: "books-darwin-39-s-radio",
           title: 'Darwin&amp;#39;s Radio',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/darwins_radio/";
+              window.location.href = "/old-website/books/darwins_radio/";
             },},{id: "books-destination-void",
           title: 'Destination: Void',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/destination_void/";
+              window.location.href = "/old-website/books/destination_void/";
             },},{id: "books-the-fall-of-hyperion",
           title: 'The Fall of Hyperion',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/fall_of_hyperion/";
+              window.location.href = "/old-website/books/fall_of_hyperion/";
             },},{id: "books-childhood-39-s-end",
           title: 'Childhood&amp;#39;s End',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/flowers_for_algernon/";
+              window.location.href = "/old-website/books/flowers_for_algernon/";
             },},{id: "books-the-hitchhiker-s-guide-to-the-galaxy",
           title: 'The Hitchhiker’s Guide to the Galaxy',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/hitchhikers_guide/";
+              window.location.href = "/old-website/books/hitchhikers_guide/";
             },},{id: "books-the-house-of-the-dead",
           title: 'The House of the Dead',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/house_of_the_dead/";
+              window.location.href = "/old-website/books/house_of_the_dead/";
             },},{id: "books-hyperion",
           title: 'Hyperion',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/hyperion/";
+              window.location.href = "/old-website/books/hyperion/";
             },},{id: "books-jazz",
           title: 'Jazz',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/jazz/";
+              window.location.href = "/old-website/books/jazz/";
             },},{id: "books-leviathan-wakes",
           title: 'Leviathan Wakes',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/leviathan_wakes/";
+              window.location.href = "/old-website/books/leviathan_wakes/";
             },},{id: "books-a-life-on-our-planet-my-witness-statement-and-a-vision-for-the-future",
           title: 'A Life on Our Planet: My Witness Statement and a Vision for the...',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/life_on_our_planet/";
+              window.location.href = "/old-website/books/life_on_our_planet/";
             },},{id: "books-neuromancer",
           title: 'Neuromancer',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/neuromancer/";
+              window.location.href = "/old-website/books/neuromancer/";
             },},{id: "books-nightfall",
           title: 'Nightfall',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/nightfall/";
+              window.location.href = "/old-website/books/nightfall/";
             },},{id: "books-the-palace-of-illusions",
           title: 'The Palace of Illusions',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/palace_of_illusions/";
+              window.location.href = "/old-website/books/palace_of_illusions/";
             },},{id: "books-red-dragon",
           title: 'Red Dragon',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/red_dragon/";
+              window.location.href = "/old-website/books/red_dragon/";
             },},{id: "books-some-desperate-glory",
           title: 'Some Desperate Glory',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/some_desperate_glory/";
+              window.location.href = "/old-website/books/some_desperate_glory/";
             },},{id: "books-sphere",
           title: 'Sphere',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/sphere/";
+              window.location.href = "/old-website/books/sphere/";
             },},{id: "books-what-i-talk-about-when-i-talk-about-running",
           title: 'What I Talk About When I Talk About Running',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/talk_about_running/";
+              window.location.href = "/old-website/books/talk_about_running/";
             },},{id: "books-the-alchemist",
           title: 'The Alchemist',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_alchemist/";
+              window.location.href = "/old-website/books/the_alchemist/";
             },},{id: "books-the-jaunt",
           title: 'The Jaunt',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_jaunt/";
+              window.location.href = "/old-website/books/the_jaunt/";
             },},{id: "books-the-little-prince",
           title: 'The Little Prince',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_little_prince/";
+              window.location.href = "/old-website/books/the_little_prince/";
             },},{id: "books-the-shepherd",
           title: 'The Shepherd',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_shepherd/";
+              window.location.href = "/old-website/books/the_shepherd/";
             },},{id: "books-the-silence-of-the-lambs",
           title: 'The Silence of the Lambs',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_silence_of_the_lambs/";
+              window.location.href = "/old-website/books/the_silence_of_the_lambs/";
             },},{id: "books-the-stranger",
           title: 'The Stranger',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_stranger/";
+              window.location.href = "/old-website/books/the_stranger/";
             },},{id: "books-the-trial",
           title: 'The Trial',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_trial/";
+              window.location.href = "/old-website/books/the_trial/";
             },},{id: "books-the-three-body-problem",
           title: 'The Three-Body Problem',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/three_body_problem/";
+              window.location.href = "/old-website/books/three_body_problem/";
             },},{id: "books-vintage-season",
           title: 'Vintage Season',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/vintage_season/";
+              window.location.href = "/old-website/books/vintage_season/";
             },},{id: "news-android-developer-indiahaat",
           title: 'Android Developer   IndiaHaat',
           description: "",
@@ -235,87 +235,87 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/old-website/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/old-website/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/old-website/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/old-website/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/old-website/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/old-website/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/old-website/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/old-website/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/old-website/projects/9_project/";
             },},{id: "projects-gt-kvstore",
           title: 'GT-KVStore',
           description: "Developed a C++ gRPC/protobuf distributed key-value store featuring round-robin data partitioning, replication-based fault tolerance and load balancing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/aos/";
+              window.location.href = "/old-website/projects/aos/";
             },},{id: "projects-iris",
           title: 'Iris',
           description: "Developed a web app that transforms your playlist’s genres into dynamic aurora-inspired color visuals",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/aurora/";
+              window.location.href = "/old-website/projects/aurora/";
             },},{id: "projects-covid-19-cases-tracker",
           title: 'COVID-19 cases tracker',
           description: "Built an Android app tracking India’s COVID-19 cases with visualizations",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/covidtracker/";
+              window.location.href = "/old-website/projects/covidtracker/";
             },},{id: "projects-privacy-in-sdn-based-networks",
           title: 'Privacy in SDN based networks',
           description: "Built Apache2/OpenSSL reverse proxy using ESNI and domain fronting to bypass censorship firewalls",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/esni/";
+              window.location.href = "/old-website/projects/esni/";
             },},{id: "projects-real-time-darknet-detection",
           title: 'Real-time Darknet detection',
           description: "Modified FreeBSD IPFW for dynamic per-address darknet detection and built a C++ BareFoot Runtime SDN controller for IPv4/IPv6 inactive‐address monitoring—boosting performance by 90%",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ipfw_darknet/";
+              window.location.href = "/old-website/projects/ipfw_darknet/";
             },},{id: "projects-georgia-tech-network-vulnerabilities",
           title: 'Georgia Tech network vulnerabilities',
           description: "Automated Nmap and Censys scans across Georgia Tech’s /10 network, mapping ~42 000 active hosts’ ports, services and CVEs for prioritized remediation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/nmap/";
+              window.location.href = "/old-website/projects/nmap/";
             },},{id: "projects-siegebreaker2",
           title: 'SiegeBreaker2',
           description: "Developed a SmartNIC-driven CDN edge proxy that transparently reroutes TLS 1.3 via Docker-hosted Stunnel, preserving encryption to bypass censorship (under review)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/siegebreaker/";
+              window.location.href = "/old-website/projects/siegebreaker/";
             },},{id: "projects-sugamyata-teaching-accessibility-in-india",
           title: 'Sugamyata: Teaching accessibility in India',
           description: "Designed academic and industry surveys, and analyzed software engineering course data to evaluate accessibility education outcomes on students",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/sugamyata/";
+              window.location.href = "/old-website/projects/sugamyata/";
             },},{
         id: 'social-email',
         title: 'email',
