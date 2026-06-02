@@ -1,6 +1,41 @@
 ---
 ---
 
+@inproceedings {morp4,
+  abbr = {NSDI},
+  author = {Iliana Xygkou and Jithin K. Sojan and Dhruv Rauthan and Feng Zhu and Thomas Holterbach and Shane Alcock and Brian Flanagan and Ahmed Saeed and Alberto Dainotti},
+  title = {{MORP4}: A Dynamic Network Telescope},
+  booktitle = {23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26)},
+  abstract = {A network telescope passively monitors traffic reaching Inter-
+net address space that is not assigned to any hosts but is adver-
+tised to the global routing system. This traffic is by definition
+unsolicited. For more than two decades, network telescopes
+have enabled research breakthroughs by allowing global vis-
+ibility into a wide range of Internet phenomena. However,
+telescopes are afflicted by two main issues: progressive ero-
+sion, due to the increasing scarcity and commercial value of
+address space, and blacklisting. To overcome these issues,
+we propose MORP4, a programmable data-plane framework
+implementing a “dynamic” network telescope. MORP4 accu-
+rately and adaptively tracks unused space of an organization's
+network with configurable time and space granularity and
+captures only traffic directed towards unused addresses at line
+rate. We provide an implementation in P4 and Python/C++,
+and deploy it on a Tofino switch. We show that it can de-
+tect unused IPv4 address space at the finest granularity (/32)
+while operating at line rate as well as providing an effective
+approach for operating a telescope in the IPv6 domain.},
+  year = {2026},
+  isbn = {978-1-939133-54-0},
+  address = {Renton, WA},
+  pages = {915--932},
+  url = {https://www.usenix.org/conference/nsdi26/presentation/xygkou},
+  publisher = {USENIX Association},
+  month = may,
+  pdf={https://www.usenix.org/system/files/nsdi26-xygkou.pdf},
+  code={https://github.com/InetIntel/morp4-dynamic-telescope}
+}
+
 @inproceedings{edgecassandra,
   abbr={COMSNETS},
   title={Performance Measurement of Distributed Storage on Edge Devices},

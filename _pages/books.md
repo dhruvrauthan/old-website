@@ -2,7 +2,7 @@
 layout: book-shelf
 title: books
 permalink: /books/
-nav: true
+nav: false
 collection: books
 grid_intro: Click on a book cover to go to my review on Goodreads
 ---

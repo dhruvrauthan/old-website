@@ -3,7 +3,7 @@ layout: page
 permalink: /art/
 title: art
 description:
-nav: true
+nav: false
 ---
 
 I like to draw sometimes (and mess around with photoshop too)
