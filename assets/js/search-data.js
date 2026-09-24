@@ -272,6 +272,11 @@ ninja.data = [{
           description: "Developed a web app that transforms your playlist’s genres into dynamic aurora-inspired color visuals",
           section: "Projects",handler: () => {
               window.location.href = "/old-website/projects/aurora/";
+            },},{id: "projects-bgp-llm",
+          title: 'BGP LLM',
+          description: "Evaluated LLM-assisted analysis for BGP routing and network measurement workflows",
+          section: "Projects",handler: () => {
+              window.location.href = "/old-website/projects/bgp_llm/";
             },},{id: "projects-covid-19-cases-tracker",
           title: 'COVID-19 cases tracker',
           description: "Built an Android app tracking India’s COVID-19 cases with visualizations",
