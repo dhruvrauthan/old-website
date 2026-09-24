@@ -5,10 +5,10 @@ description: Built Apache2/OpenSSL reverse proxy using ESNI and domain fronting 
 img: 
 importance: 1000
 category: academic
-redirect: /assets/pdf/esni.pdf
+redirect: /old-website/assets/pdf/esni.pdf
 ---
 
-[Project Report](/assets/pdf/esni.pdf)
+[Project Report](/old-website/assets/pdf/esni.pdf)
 
 <!-- Nowadays it is common practice to host multiple websites at the same IP address. This is made by possible through the use of Server Name Indication (SNI). The SNI extension enables servers to return the correct SSL certificate during the TLS handshake. 
 

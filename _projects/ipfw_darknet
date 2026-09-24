@@ -5,5 +5,5 @@ description: Modified FreeBSD IPFW for dynamic per-address darknet detection and
 img: 
 importance: 950
 category: academic
-redirect: /assets/pdf/ipfw_darknet.pdf
+redirect: /old-website/assets/pdf/ipfw_darknet.pdf
 ---

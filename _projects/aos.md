@@ -5,5 +5,5 @@ description: Developed a C++ gRPC/protobuf distributed key-value store featuring
 img: 
 importance: 980
 category: academic
-redirect: /assets/pdf/aos.pdf
+redirect: /old-website/assets/pdf/aos.pdf
 ---

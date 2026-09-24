@@ -5,5 +5,5 @@ description: Automated Nmap and Censys scans across Georgia Tech’s /10 network
 img: 
 importance: 970
 category: academic
-redirect: /assets/pdf/nmap.pdf
+redirect: /old-website/assets/pdf/nmap.pdf
 ---
